@@ -1,2 +1,2 @@
-hello
-jnfjkfd
+class Demo{}[D
+class Demo1{}
